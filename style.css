@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: linear-gradient(#fc03fc,#03fce7);
+    font-family: Silkscreen;
+}
+ul{
+    list-style: none;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+}
+.link{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.link:hover{
+    font-size: 20px;
+    color: #1eff00;
+}
